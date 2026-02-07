@@ -1,6 +1,6 @@
-[Project Banner](assets/JiraBoard.mp4)
 
 
+ ![Jira gif](https://github.com/user-attachments/assets/f5ee5e94-66ae-4f04-b022-7f8e10515ccd)
 # Jira Board → SQL Server (SSMS Reporting)
 
 This project syncs **Jira Cloud Kanban board data** into **Microsoft SQL Server** so you can build reports in **SSMS** (or Power BI / Excel).  

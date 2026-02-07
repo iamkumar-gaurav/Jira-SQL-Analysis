@@ -1,4 +1,4 @@
-[Project Banner](assets/banner.png)
+[Project Banner](assets/JiraBoard.mp4)
 
 
 # Jira Board → SQL Server (SSMS Reporting)
